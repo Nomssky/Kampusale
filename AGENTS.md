@@ -111,11 +111,11 @@ Tim terdiri dari 5 orang dengan aturan **1 orang 1 peran**. Setiap peran dipegan
 
 | # | Peran | Penanggung jawab | Fokus | Area utama |
 |---|---|---|---|---|
-| 1 | **UI/UX Designer & Product Owner** | (isi nama) | Riset pengguna, user flow, wireframe hingga mockup (Figma), prioritas fitur | `docs/product/`, desain di Figma, kriteria penerimaan |
-| 2 | **Frontend Developer** | (isi nama) | Mengubah desain menjadi antarmuka yang responsif dan terhubung ke data backend | `app/`, `components/`, gaya Tailwind |
-| 3 | **Backend Developer** | (isi nama) | API, basis data, autentikasi, dan keamanan | `server/`, `prisma/`, `lib/`, route handler, aturan akses Supabase |
-| 4 | **QA Tester & Technical Writer** | (isi nama) | Test case, uji sebelum rilis, dokumentasi pengguna dan teknis | `tests/`, `docs/qa/`, `README.md`, `docs/` |
-| 5 | **Project Manager / Scrum Master & Fullstack** | (isi nama) | Jadwal, daily standup, menghilangkan hambatan, membantu coding bila menumpuk | `.github/`, papan proyek |
+| 1 | **UI/UX Designer & Product Owner** | @affelgato | Riset pengguna, user flow, wireframe hingga mockup (Figma), prioritas fitur | `docs/product/`, desain di Figma, kriteria penerimaan |
+| 2 | **Frontend Developer** | @rakhadwi14 | Mengubah desain menjadi antarmuka yang responsif dan terhubung ke data backend | `app/`, `components/`, gaya Tailwind |
+| 3 | **Backend Developer** | @Nomssky | API, basis data, autentikasi, dan keamanan | `server/`, `prisma/`, `lib/`, route handler, aturan akses Supabase |
+| 4 | **QA Tester & Technical Writer** | @caesaria | Test case, uji sebelum rilis, dokumentasi pengguna dan teknis | `tests/`, `docs/qa/`, `README.md`, `docs/` |
+| 5 | **Project Manager / Scrum Master & Fullstack** | Farhan (username GitHub menyusul, undangan masih pending) | Jadwal, daily standup, menghilangkan hambatan, membantu coding bila menumpuk | `.github/`, papan proyek |
 
 Peran nomor 5 boleh membantu coding di area Frontend atau Backend bila ada tugas yang menumpuk, tetapi perubahannya tetap di-review oleh pemilik area tersebut (peran 2 atau 3).
 
